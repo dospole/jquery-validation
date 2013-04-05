@@ -7,3 +7,6 @@ docs
 *.patch
 .DS_Store
 node_modules
+.buildpath
+.project
+.settings
